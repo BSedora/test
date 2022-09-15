@@ -6,3 +6,6 @@
 
 I'm learning markdown! This is **fun**!
 
+I can mke bulleted list
+
+- first item
