@@ -6,6 +6,6 @@
 
 I'm learning markdown! This is **fun**!
 
-I can mke bulleted list
+I can make bulleted list
 
 - first item
